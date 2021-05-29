@@ -164,6 +164,16 @@ a img {
 .htmleaf-nav {
 	text-align: center;
 }
+#charu{
+	position: absolute;
+	bottom:0;
+	right:0;
+}
+.charu{
+	position: absolute;
+	bottom:50px;
+	right: 400px;;
+}
 
 .htmleaf-nav a {
 	display: inline-block;

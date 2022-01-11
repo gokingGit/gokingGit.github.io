@@ -13,7 +13,7 @@ timezone: '' #网站时区
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://grddeblog.top/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -103,6 +103,6 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: gokingGit.github.io.github
-  brandh: master
+  repository: git@github.com:gokingGit/gokingGit.github.io.git
+  branch: master
   messge:
